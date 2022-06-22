@@ -6,7 +6,7 @@ Backend  Assignment for accepting forms data.
 ###`npm start`
 
 # Deployed Link
-##POST
+## POST
 ### `https://employeedatabase2.herokuapp.com/user`
 
 ### GET 
